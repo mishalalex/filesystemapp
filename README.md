@@ -1,5 +1,5 @@
 # filesystemapp
-This is a simple Node.js based offline CRUD file system application using it's 'fs' module.
+> This is a simple Node.js based offline CRUD file system application using it's 'fs' module.
 
 What it does:
 > Reads a specific set of commands from the 'command.txt' file when the file is edited & saved and executes them.
